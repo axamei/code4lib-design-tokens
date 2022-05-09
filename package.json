@@ -1,0 +1,28 @@
+{
+  "name": "code4lib-design-tokens",
+  "version": "0.0.0-development",
+  "description": "Design tokens for Code4Lib",
+  "files": [
+    "scss/*.scss",
+    "assets/*"
+  ],
+  "scripts": {
+    "test": "npx sass variables.scss tmp/variables.css",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axamei/code4lib-design-tokens.git"
+  },
+  "keywords": [
+    "Code4Lib",
+    "Design Tokens",
+    "Figma Tokens"
+  ],
+  "author": "Axa Liauw",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  },
+  "homepage": "https://github.com/axamei/code4lib-design-tokens#readme"
+}
