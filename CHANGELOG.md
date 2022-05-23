@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/axamei/code4lib-design-tokens/compare/v1.0.0...v1.1.0) (2022-05-23)
+
+
+### Features
+
+* adds initial tokens ([f59665a](https://github.com/axamei/code4lib-design-tokens/commit/f59665aec9767be9b27d17c8fa7bdb102b8e56f9))
+
 # 1.0.0 (2022-05-09)
 
 
